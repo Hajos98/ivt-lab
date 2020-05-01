@@ -10,7 +10,6 @@
 		<sonar.projectKey>Hajos98_ivt-lab</sonar.projectKey>
   		<sonar.organization>hajos98</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>168bbe375f4dc4fe68682ba935bbe492e3c80991</sonar.login>
 	</properties>
 
 	<dependencies>
