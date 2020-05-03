@@ -1,7 +1,7 @@
 package hu.bme.mit.spaceship;
 
 import java.util.Random;
-v2
+
 /**
 * Class storing and managing the torpedoes of a ship
 *
@@ -9,6 +9,7 @@ v2
 */
 public class TorpedoStore {
 
+  //v2
   // rate of failing to fire torpedos [0.0, 1.0]
   private double FAILURE_RATE = 0.0; //NOSONAR
 
